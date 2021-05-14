@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**andressahcardoso/andressahcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andressahcardoso/andressahcardoso** is a computer technician course student because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
